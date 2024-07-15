@@ -1,0 +1,38 @@
+body{
+    text-align:center;
+}
+.container{
+    
+    display:flex;
+    justify-content: center;
+}
+
+.btn{
+    height:100px;
+    width:100px;
+    border-radius:15px;
+    border:6px solid black;
+    margin:.5rem;
+}
+.palevioletred{
+    background-color: palevioletred;
+}
+.orange{
+    background-color:orange;
+}
+.lightseagreen{
+    background-color: lightseagreen;
+}
+.skyblue{
+   background-color: skyblue;
+}
+.flash{
+    background-color: white;
+}
+.flashmatch{
+    background-color: white;
+}
+.red{
+    background-color: red;
+}
+
